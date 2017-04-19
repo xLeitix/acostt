@@ -1,6 +1,6 @@
 # Software Developer Targeted Performance and Cost Management for Autonomic Cloud Applications (ACOSTT)
 
-*This is a project announcement for a fully sponsored PhD under the supervision of [Dr. Philipp Leitner](http://www.ifi.uzh.ch/en/seal/people/leitner.html)*.
+*This is a project announcement for a fully sponsored PhD under the advisory of [Dr. Philipp Leitner](http://www.ifi.uzh.ch/en/seal/people/leitner.html)*.
 
 ## Project Summary
 
@@ -20,14 +20,27 @@ The best PhD theses in our field have elements of all three of the above. This a
 
 ## Related Publications
 
-TBA
+The best way to find out what to expect when doing your PhD in this area is by looking at publications of my previous or current students (or other students that I collaborate with). Below you find a few recent, representative examples:
 
-## Required Skills and Knowledge
+**Empirical Works:**
+* [An empirical study of software development practices in the cloud](http://dl.acm.org/citation.cfm?doid=2786805.2786826)
+* [Benchmarking public clouds](https://arxiv.org/pdf/1411.2429v2.pdf)
+* [A study of CI build failures of OSS software](http://dsg.tuwien.ac.at/staff/trausch/pub/PID4727015.pdf)
 
-TBA
+**Conceptual / Technological Works:**
+* [BIFROST - automating live experiments](http://www.ifi.uzh.ch/seal/people/schermann/research/mw16_paper.pdf)
+* [jCloudScale - building autonomously scaling cloud apps](http://dl.acm.org/citation.cfm?doid=2792980)
+* [Context-based analytics](http://www.ifi.uzh.ch/seal/people/cito/cba-icse17-jcito.pdf)
 
-## Project Supervisor
-[Philipp Leitner](http://www.ifi.uzh.ch/en/seal/people/leitner.html)
+
+## Support You Will Get
+
+As part of your PhD, you will be a salaried employee at the [Chalmers University of Technology](http://www.chalmers.se). You will be part of the [Software Engineering division](http://www.chalmers.se/en/departments/cse/organisation/se). Full funding for your PhD will be provided. This includes not only your salary, but also sufficient funds to cover equipment, travels to conferences, and other costs of doing the project.
+
+In addition to frequent meetings with your advisor, you will also be embedded in a closely-knit and successful research group operating in Sweden and Switzerland, with collaborators all over Europe and the world.
+
+## Advisor
+This project is advised by [Dr. Philipp Leitner](http://www.ifi.uzh.ch/en/seal/people/leitner.html). Philipp is currently in the process of relocating from University of Zurich to Gothenburg. When the project launches, Philipp will have moved to Sweden and will be fulltime faculty at Chalmers. *It is not possible to enroll at University of Zurich for this project.*
 
 ## Further Questions?
-TBA
+If you have any open questions, please contact [Philipp](mailto:leiter@ifi.uzh.ch) via email.
