@@ -1,6 +1,6 @@
 # Software Developer Targeted Performance and Cost Management for Autonomic Cloud Applications (ACOSTT)
 
-*This is a project announcement for a fully sponsored PhD under the advisory of [Dr. Philipp Leitner](http://www.ifi.uzh.ch/en/seal/people/leitner.html)*.
+*This is a project announcement for a fully sponsored PhD under the advisory of [Dr. Philipp Leitner](http://www.ifi.uzh.ch/en/seal/people/leitner.html). The position is available under the [WASP umbrella](http://wasp-sweden.org). You need to apply to, and be accepted by, WASP and **then** elect to work with me on this project.*
 
 ## Project Summary
 
@@ -32,15 +32,32 @@ The best way to find out what to expect when doing your PhD in this area is by l
 * [jCloudScale - building autonomously scaling cloud apps](http://dl.acm.org/citation.cfm?doid=2792980)
 * [Context-based analytics](http://www.ifi.uzh.ch/seal/people/cito/cba-icse17-jcito.pdf)
 
+## Things We Ask for
+
+We require a MSc degree or equivalent, and a strong background in software engineering and Web-based systems (services- and cloud computing). Particularly, my research requires interest, knowledge, and experience in programming in a Web context, using languages such as Java, JavaScript, TypeScript, Ruby, or Go. Further, robust statistical and machine learning method knowledge (along with some hands-on experience in R and/or Python) is required for many paper projects we do, but a lot of it can be learned "on the job". Prior knowledge in autonomic computing is a plus.
 
 ## Support You Will Get
 
-As part of your PhD, you will be a salaried employee at the [Chalmers University of Technology](http://www.chalmers.se). You will be part of the [Software Engineering division](http://www.chalmers.se/en/departments/cse/organisation/se). Full funding for your PhD will be provided. This includes not only your salary, but also sufficient funds to cover equipment, travels to conferences, and other costs of doing the project.
+As part of your PhD, you will be a salaried employee at the [Chalmers University of Technology](http://www.chalmers.se). You will be part of the [Software Engineering division](http://www.chalmers.se/en/departments/cse/organisation/se). Full funding for your PhD for up to 5 years will be provided. This includes not only your salary, but also sufficient funds to cover equipment, travels to conferences, and other costs of doing research.
 
 In addition to frequent meetings with your advisor, you will also be embedded in a closely-knit and successful research group operating in Sweden and Switzerland, with collaborators all over Europe and the world.
 
+Chalmers continuously strives to be an attractive employer. Equality and diversity are substantial foundations in all activities at Chalmers.
+
 ## Advisor
 This project is advised by [Dr. Philipp Leitner](http://www.ifi.uzh.ch/en/seal/people/leitner.html). Philipp is currently in the process of relocating from University of Zurich to Gothenburg. When the project launches, Philipp will have moved to Sweden and will be fulltime faculty at Chalmers. *It is not possible to enroll at University of Zurich for this project.*
+
+## Applying
+
+Please apply directly at Chalmers using the reference *Ref 20170211*. Your application package requires the following document:
+
+* CV
+* 2 references that we can contact (e.g., master's thesis advisor)
+* Personal letter (up tp 3 pages, where you describe previous research, future goals, and what you like about this project)
+* Copies of bachelor and master's thesis
+* Attested copies and transcripts of completed education, grades and other certificates, eg. TOEFL test results
+
+As part of the application procedure, you will be asked to select one or two current WASP projects. If you are interested in working with me, you should select this project as your primary or at least secondary choice.
 
 ## Further Questions?
 If you have any open questions, please contact [Philipp](mailto:leiter@ifi.uzh.ch) via email.
