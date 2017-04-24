@@ -49,7 +49,7 @@ This project is advised by [Dr. Philipp Leitner](http://www.ifi.uzh.ch/en/seal/p
 
 ## Applying
 
-Please apply directly at Chalmers using the reference *Ref 20170211*. Your application package requires the following document:
+Please apply directly at Chalmers using the reference *Ref 20170211*. Your application package needs to encompass the following documents:
 
 * CV
 * 2 references that we can contact (e.g., master's thesis advisor)
