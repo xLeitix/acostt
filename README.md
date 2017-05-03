@@ -1,6 +1,6 @@
 # Software Developer Targeted Performance and Cost Management for Autonomic Cloud Applications (ACOSTT)
 
-*This is a project announcement for a fully sponsored PhD under the advisory of [Dr. Philipp Leitner](http://www.ifi.uzh.ch/en/seal/people/leitner.html). The position is available under the [WASP umbrella](http://wasp-sweden.org). You need to apply to, and be accepted by, WASP and **then** elect to work with me on this project.*
+*This is a project announcement for a fully sponsored PhD under the advisory of [Dr. Philipp Leitner](http://www.ifi.uzh.ch/en/seal/people/leitner.html). The position is available under the [WASP umbrella](http://wasp-sweden.org). You need to [apply to](http://www.chalmers.se/en/about-chalmers/vacancies/Pages/default.aspx?rmpage=job&rmjob=5052) WASP and elect to work with me on this project.*
 
 ## Project Summary
 
@@ -38,7 +38,7 @@ We require a MSc degree or equivalent, and a strong background in software engin
 
 ## Support You Will Get
 
-As part of your PhD, you will be a salaried employee at the [Chalmers University of Technology](http://www.chalmers.se). You will be part of the [Software Engineering division](http://www.chalmers.se/en/departments/cse/organisation/se). Full funding for your PhD for up to 5 years will be provided. This includes not only your salary, but also sufficient funds to cover equipment, travels to conferences, and other costs of doing research.
+As part of your PhD, you will be a salaried employee at the [Chalmers University of Technology](http://www.chalmers.se). You will be part of the [Software Engineering division](http://www.chalmers.se/en/departments/cse/organisation/se). Full funding for your PhD for up to 5 years will be provided. This includes not only your salary, but also sufficient funds to cover equipment, travels to conferences, and other costs of doing research. There are no tuition fees for PhD studies at Chalmers. The starting date is tentatively after the summer of 2017, but somewhat flexible.
 
 In addition to frequent meetings with your advisor, you will also be embedded in a closely-knit and successful research group operating in Sweden and Switzerland, with collaborators all over Europe and the world.
 
@@ -49,7 +49,7 @@ This project is advised by [Dr. Philipp Leitner](http://www.ifi.uzh.ch/en/seal/p
 
 ## Applying
 
-Please apply directly at Chalmers using the reference *Ref 20170211*. Your application package needs to encompass the following documents:
+Please [apply directly](http://www.chalmers.se/en/about-chalmers/vacancies/Pages/default.aspx?rmpage=job&rmjob=5052) at Chalmers using the reference *Ref 20170211*. Your application package needs to encompass the following documents:
 
 * CV
 * 2 references that we can contact (e.g., master's thesis advisor)
@@ -58,6 +58,8 @@ Please apply directly at Chalmers using the reference *Ref 20170211*. Your appli
 * Attested copies and transcripts of completed education, grades and other certificates, eg. TOEFL test results
 
 As part of the application procedure, you will be asked to select one or two current WASP projects. If you are interested in working with me, you should select this project as your primary or at least secondary choice.
+
+**Please note that the application deadline of 31 May 2017 is final. Review of applications will start as soon as applications come in. Do not wait to the last day if possible.**
 
 ## Further Questions?
 If you have any open questions, please contact [Philipp](mailto:leiter@ifi.uzh.ch) via email.
