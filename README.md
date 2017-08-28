@@ -41,7 +41,9 @@ We require a MSc degree or equivalent, and a strong background in software engin
 
 ## Support You Will Get
 
-As part of your PhD, you will be a salaried employee at the [Chalmers University of Technology](http://www.chalmers.se). You will be part of the [Software Engineering division](http://www.chalmers.se/en/departments/cse/organisation/se), one of the largest and most successful software engineering research groups in Europe. Full funding for your PhD for up to 5 years will be provided. This includes not only your salary, but also funds to cover equipment, travels to conferences, and other costs of doing research. There are no tuition fees for PhD studies at Chalmers. The tentative starting date is beginning of 2018, but somewhat flexible in both directions.
+As part of your PhD, you will be a salaried employee at the [Chalmers University of Technology](http://www.chalmers.se). You will be part of the [Software Engineering division](http://www.chalmers.se/en/departments/cse/organisation/se), one of the largest and most successful software engineering research groups in Europe. Your office will be located in beautiful [Lindholmspiren](https://www.google.ch/maps/place/Hörselgången+4,+417+56+Göteborg,+Sweden/@57.7060269,11.9364311,18z/data=!3m1!4b1!4m13!1m7!3m6!1s0x464ff35abedb840d:0x55929653c623edf4!2sLindholmspiren,+417+56+Göteborg,+Sweden!3b1!8m2!3d57.7075314!4d11.9406987!3m4!1s0x464ff3501d7970f7:0x806864a5c937b425!8m2!3d57.7060255!4d11.9375254), in a technology park shared between Chalmers, Ericsson, and others.
+
+Full funding for your PhD for up to 5 years will be provided. This includes not only your salary, but also funds to cover equipment, travels to conferences, and other costs of doing research. There are no tuition fees for PhD studies at Chalmers. The tentative starting date is beginning of 2018, but somewhat flexible in both directions.
 
 In addition to frequent meetings with your advisors, you will also be embedded in a closely-knit and successful research group operating in Sweden and Switzerland, with collaborators all over Europe and the world.
 
