@@ -1,6 +1,7 @@
 # Software Developer Targeted Performance and Cost Management for Autonomic Cloud Applications (ACOSTT)
 
-*This is a project announcement for a fully sponsored PhD under the advisory of [Dr. Philipp Leitner](http://www.ifi.uzh.ch/en/seal/people/leitner.html). The position is available under the [WASP umbrella](http://wasp-sweden.org). You need to [apply to](http://www.chalmers.se/en/about-chalmers/vacancies/Pages/default.aspx?rmpage=job&rmjob=5052) WASP and elect to work with me on this project.*
+*This is a project announcement for a fully sponsored PhD under the advisory of [Dr. Philipp Leitner](http://www.ifi.uzh.ch/en/seal/people/leitner.html).
+The position is part of Chalmer's [ICT Area of Advance](https://www.chalmers.se/en/areas-of-advance/ict/about%20us/Pages/default.aspx).*
 
 ## Project Summary
 
@@ -18,9 +19,11 @@ All of these are to be communicated to other scientists through high-quality pub
 
 The best PhD theses in our field have elements of all three of the above. This also means that you should have fairly broad interests and be willing to study and apply a vast array of different scientific methodologies, spanning from interviewing and survey research over statistical analysis to programming and system development.
 
+Contributions are often developed in cooperation with industrial partners, such as IBM, Huawei, Microsoft, Volvo, or Ericsson. However, this is not a purely industrial PhD project. That is, a focus will be put on novel concepts and fundamental research in software technologies, although evaluation of these concepts will often be on an industrial context.
+
 ## Related Publications
 
-The best way to find out what to expect when doing your PhD in this area is by looking at publications of my previous or current students (or other students that I collaborate with). Below you find a few recent, representative examples:
+The best way to find out what to expect when doing your PhD in this area is by looking at publications of my previous or current students. Below you find a few recent, representative examples:
 
 **Empirical Works:**
 * [An empirical study of software development practices in the cloud](http://dl.acm.org/citation.cfm?doid=2786805.2786826)
@@ -38,28 +41,22 @@ We require a MSc degree or equivalent, and a strong background in software engin
 
 ## Support You Will Get
 
-As part of your PhD, you will be a salaried employee at the [Chalmers University of Technology](http://www.chalmers.se). You will be part of the [Software Engineering division](http://www.chalmers.se/en/departments/cse/organisation/se). Full funding for your PhD for up to 5 years will be provided. This includes not only your salary, but also sufficient funds to cover equipment, travels to conferences, and other costs of doing research. There are no tuition fees for PhD studies at Chalmers. The starting date is tentatively after the summer of 2017, but somewhat flexible.
+As part of your PhD, you will be a salaried employee at the [Chalmers University of Technology](http://www.chalmers.se). You will be part of the [Software Engineering division](http://www.chalmers.se/en/departments/cse/organisation/se), one of the largest and most successful software engineering research groups in Europe. Full funding for your PhD for up to 5 years will be provided. This includes not only your salary, but also funds to cover equipment, travels to conferences, and other costs of doing research. There are no tuition fees for PhD studies at Chalmers. The tentative starting date is beginning of 2018, but somewhat flexible in both directions.
 
-In addition to frequent meetings with your advisor, you will also be embedded in a closely-knit and successful research group operating in Sweden and Switzerland, with collaborators all over Europe and the world.
+In addition to frequent meetings with your advisors, you will also be embedded in a closely-knit and successful research group operating in Sweden and Switzerland, with collaborators all over Europe and the world.
 
 Chalmers continuously strives to be an attractive employer. Equality and diversity are substantial foundations in all activities at Chalmers.
 
-## Advisor
-This project is advised by [Dr. Philipp Leitner](http://www.ifi.uzh.ch/en/seal/people/leitner.html). Philipp is currently in the process of relocating from University of Zurich to Gothenburg. When the project launches, Philipp will have moved to Sweden and will be fulltime faculty at Chalmers. *It is not possible to enroll at University of Zurich for this project.*
-
 ## Applying
 
-Please [apply directly](http://www.chalmers.se/en/about-chalmers/vacancies/Pages/default.aspx?rmpage=job&rmjob=5052) at Chalmers using the reference *Ref 20170211*. Your application package needs to encompass the following documents:
+We are currently gauging interest in this position before formally opening the call. To state your interest, please send an email with the following material to [Philipp Leitner](mailto:philipp.leitner@chalmers.se):
 
 * CV
 * 2 references that we can contact (e.g., master's thesis advisor)
 * Personal letter (up tp 3 pages, where you describe previous research, future goals, and what you like about this project)
-* Copies of bachelor and master's thesis
-* Attested copies and transcripts of completed education, grades and other certificates, eg. TOEFL test results
+* Any other application material that you think supports your case
 
-As part of the application procedure, you will be asked to select one or two current WASP projects. If you are interested in working with me, you should select this project as your primary or at least secondary choice.
-
-**Please note that the application deadline of 31 May 2017 is final. Review of applications will start as soon as applications come in. Do not wait to the last day if possible.**
+**The soft deadline is Sept. 30th. However, applications will be reviewed as they come in. Hence, please apply as soon as possible.**
 
 ## Further Questions?
-If you have any open questions, please contact [Philipp](mailto:leiter@ifi.uzh.ch) via email.
+If you have any open questions, please contact [Philipp](mailto:philipp.leitner@chalmers.se) via email.
