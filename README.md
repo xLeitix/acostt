@@ -19,7 +19,7 @@ All of these are to be communicated to other scientists through high-quality pub
 
 The best PhD theses in our field have elements of all three of the above. This also means that you should have fairly broad interests and be willing to study and apply a vast array of different scientific methodologies, spanning from interviewing and survey research over statistical analysis to programming and system development.
 
-Contributions are often developed in cooperation with industrial partners, such as IBM, Huawei, Microsoft, Volvo, or Ericsson. However, this is not a purely industrial PhD project. That is, a focus will be put on novel concepts and fundamental research in software technologies, although evaluation of these concepts will often be on an industrial context.
+Contributions are often developed in cooperation with industrial partners, such as IBM, SAP, Microsoft, Volvo, or Ericsson. However, this is not a purely industrial PhD project. That is, a focus will be put on novel concepts and fundamental research in software technologies, although evaluation of these concepts will often be on an industrial context.
 
 ## Related Publications
 
