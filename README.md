@@ -3,6 +3,9 @@
 *This is a project announcement for a fully sponsored PhD under the advisory of [Dr. Philipp Leitner](http://www.ifi.uzh.ch/en/seal/people/leitner.html).
 The position is part of Chalmer's [ICT Area of Advance](https://www.chalmers.se/en/areas-of-advance/ict/about%20us/Pages/default.aspx).*
 
+Please apply using [this link](http://www.chalmers.se/en/about-chalmers/vacancies/Pages/default.aspx?rmpage=job&rmjob=5481). The hard deadline
+is *November 30th, 2017*. However, applications will be evaluated as they come in.
+
 ## Project Summary
 
 Scale-out cloud services, such as Netflix or Microsoft Bing, often consist of hundreds of independent microservices running on thousands of virtual machines or containers. Deployment automation and self-management (e.g., through circuit breakers or autoscaling) are fundamental to the management of such systems. However, these autonomic principles have made testing and operations cost estimation at development time challenging. In this PhD project, the goal is to combine empirical and experimental research methods to devise approaches to test the autonomic behavior of changes to a cloud application prior to deployment. Further, models shall be investigated to estimate the impact of such changes on the financial costs of deployment, allowing to quantify the monetary costs of development decisions.
@@ -48,17 +51,6 @@ Full funding for your PhD for up to 5 years will be provided. This includes not 
 In addition to frequent meetings with your advisors, you will also be embedded in a closely-knit and successful research group operating in Sweden and Switzerland, with collaborators all over Europe and the world.
 
 Chalmers continuously strives to be an attractive employer. Equality and diversity are substantial foundations in all activities at Chalmers.
-
-## Applying
-
-We are currently gauging interest in this position before formally opening the call. To state your interest, please send an email with the following material to [Philipp Leitner](mailto:philipp.leitner@chalmers.se):
-
-* CV
-* 2 references that we can contact (e.g., master's thesis advisor)
-* Personal letter (up tp 3 pages, where you describe previous research, future goals, and what you like about this project)
-* Any other application material that you think supports your case
-
-**The soft deadline is Sept. 30th. However, applications will be reviewed as they come in. Hence, please apply as soon as possible.**
 
 ## Further Questions?
 If you have any open questions, please contact [Philipp](mailto:philipp.leitner@chalmers.se) via email.
